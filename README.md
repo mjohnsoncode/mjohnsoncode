@@ -8,5 +8,5 @@ My work includes developing developer-friendly APIs designed for analytics, rese
 
 _____
 
-- Have a question? [Chat with me](https://t.me/mjohnsoncode)
-- [IG Scraper API](http://mjcodebase.com/ig-scraper-api) - Structured API for retrieving publicly available Instagram data for analytics, monitoring, and research projects.
+- Have a question? [Chat with me online](https://mjcodebase.com/contacts)
+- [jsonscraper](https://jsonscraper.com) - Production-ready JSON APIs for TikTok & Instagram data
