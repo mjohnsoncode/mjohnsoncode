@@ -9,4 +9,5 @@ My work includes developing developer-friendly APIs designed for analytics, rese
 _____
 
 - Have a question? [Chat with me online](https://mjcodebase.com/contacts)
+- [Nextpost Pro](https://nextpost.pro) — Advanced automation and account management platform for social media workflows
 - [jsonscraper](https://jsonscraper.com) - Production-ready JSON APIs for TikTok & Instagram data
